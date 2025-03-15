@@ -8,7 +8,7 @@ Este repositório reúne anotações, exercícios e projetos desenvolvidos ao lo
 
 O **Learn to Program** é um nanocurso voltado para iniciantes na programação mas que eu decidi realizar para aprofundar meu conhecimento em lógica de programação, algoritmos e boas práticas. Esse nanocurso aborda conceitos essenciais de algoritmos e lógica computacional. Os principais tópicos incluem:
 
-- ❗  **Introdução a Fluxogramas**
+- ❗   **Introdução a Fluxogramas**
 - 🧠 **Introdução ao Pensamento Computacional**
 - 🔢 **Variáveis e Tipos de Dados**
 - 🔄 **Estruturas Condicionais e Laços de Repetição**
