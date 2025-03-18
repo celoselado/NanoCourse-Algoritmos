@@ -1,0 +1,165 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0 (Edition std-2)" version="26.1.0">
+  <diagram name="Página-1" id="yJbIDMBWal1MlnXjwbeX">
+    <mxGraphModel dx="550" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haFcfOHJsIUhaSSwUBZR-1" target="haFcfOHJsIUhaSSwUBZR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-1" value="INICIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haFcfOHJsIUhaSSwUBZR-3" target="haFcfOHJsIUhaSSwUBZR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-3" value="Salario" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haFcfOHJsIUhaSSwUBZR-5" target="haFcfOHJsIUhaSSwUBZR-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="237.5" y="655" as="targetPoint" />
+            <mxPoint x="165" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="165" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="970" as="targetPoint" />
+            <mxPoint x="120" y="280" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="81" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-5" value="IF" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="220" width="105" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-7" value="ISENTO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.031;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="haFcfOHJsIUhaSSwUBZR-5" target="haFcfOHJsIUhaSSwUBZR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-9" value="SALARIO &amp;lt; 1903,98" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-12" value="FIM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.003;exitY=0.398;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="haFcfOHJsIUhaSSwUBZR-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="290" as="sourcePoint" />
+            <mxPoint x="560" y="280.7377706495589" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="haFcfOHJsIUhaSSwUBZR-21" target="haFcfOHJsIUhaSSwUBZR-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-21" value="(salario * 7,5%) -&amp;nbsp; 142,80" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="410" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-23" value="Salario &amp;gt; 1903,98&lt;div&gt;Salarios &amp;lt;= 2827,65&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haFcfOHJsIUhaSSwUBZR-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-24" value="Recolhimento" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-26" value="Fim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="haFcfOHJsIUhaSSwUBZR-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="670" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haFcfOHJsIUhaSSwUBZR-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-31" value="Recolhimento" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-32" value="Fim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-36" value="(salario * 15%) -&amp;nbsp; 354,80" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="620" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-38" value="Salario &amp;gt; 2826,66&lt;div&gt;Salarios &amp;lt;= 3751,05&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="haFcfOHJsIUhaSSwUBZR-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="810" as="targetPoint" />
+            <mxPoint x="120" y="430" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="120" y="303" />
+              <mxPoint x="120" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="haFcfOHJsIUhaSSwUBZR-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="342.5" y="820" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haFcfOHJsIUhaSSwUBZR-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="602.5" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-42" value="Recolhimento" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-43" value="Fim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-44" value="(salario * 22,5%) -&amp;nbsp; 636,13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="770" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-45" value="Salario &amp;gt; 3751,05&lt;div&gt;Salarios &amp;lt;= 4664,68&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="740" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="haFcfOHJsIUhaSSwUBZR-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="970" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haFcfOHJsIUhaSSwUBZR-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-50" value="Recolhimento" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="930" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-51" value="Fim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-52" value="(salario * 27,5%) -&amp;nbsp; 869,36" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="920" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="haFcfOHJsIUhaSSwUBZR-53" value="Salario &amp;gt; 4664,68" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="905" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
